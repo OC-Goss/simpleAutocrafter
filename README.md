@@ -15,7 +15,9 @@ There are only 2 commands currently:
 1.create --to add a recipe to the database(instructions on what to do next will be displayed)
 
 2.craft --to craft an item stored in the database(instructions on what to do next will be displayed)
+
 *Important:Recipe for intermediate products need to be present in the database(use create command)
+
 *Note:If the program cannot search for the item from your query, try to make sure the first letter of the word is upper case(e.g. pickaxe -> Pickaxe)(planned to improve of course :P)
 
 No parameters needed, just directly type the word and press enter :D
