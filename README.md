@@ -3,8 +3,11 @@ A simple autocrafter program for OpenComputers
 
 # Installation
 Because it was intended for my personal use, i never added very user friendly interface and installation code, So to use the program in its current state:
+
 1.Use wget to get the robotLibInstaller.lua to your OC Computer(it will install lib files to your "/usr/lib" directory)
+
 2.Run that program, it will download all the required library from my repo and some excess files too :P(A dedicated library installer will be made later)
+
 3.Use wget to download this program
 
 # Resource Requirement/Setup
