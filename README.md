@@ -7,6 +7,17 @@ Because it was intended for my personal use, i never added very user friendly in
 2.Run that program, it will download all the required library from my repo and some excess files too :P(A dedicated library installer will be made later)
 3.Use wget to download this program
 
+# Resource Requirement/Setup
+
+1. robot with crafting and inventory controller upgrade
+
+2. a storage medium in front of the robot
+
+3. robot need to face the ingredient chest
+
+(Info available at the top of the code too :D)
+
+
 # How to use
 The program will show a ">" sign when it is ready for input
 
