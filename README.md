@@ -24,7 +24,7 @@ No parameters needed, just directly type the word and press enter :D
 
 # TODO/Bug
 
-1.Missing recipe created prompt to show recipe successfully created
+1.Missing "recipe created" prompt to show recipe successfully created
 
 2.Program will crash if you attempt to craft an item without all its intermediate products's recipe present in the database
 (e.g. No minecraft stick recipe/while trying to craft a minecraft pickaxe when stick is not in the ingredient chest)
