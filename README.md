@@ -22,7 +22,7 @@ There are only 2 commands currently:
 
 No parameters needed, just directly type the word and press enter :D
 
-#TODO/Bug
+# TODO/Bug
 
 1.Missing recipe created prompt to show recipe successfully created
 
