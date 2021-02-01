@@ -11,6 +11,7 @@ Because it was intended for my personal use, i never added very user friendly in
 The program will show a ">" sign when it is ready for input
 
 There are only 2 commands currently:
+
 1.create --to add a recipe to the database(instructions on what to do next will be displayed)
 
 2.craft --to craft an item stored in the database(instructions on what to do next will be displayed)
