@@ -80,6 +80,7 @@ function craftFunction()
         selection = tonumber(commonlib.input("Selection(-1 for cancel): "))
     until(selection ~=-1)
    craft(tmpList[selection])
+   print("Crafting Completed...\n")
 end
 
 function craft(itemName)
@@ -124,7 +125,6 @@ function craft(itemName)
     end
     robot.select(8)
     crafter.craft(1)
-    print("Crafting Completed...\n")
 end
 
 function craftSlotIndexToInternIndex(craftSlot)
