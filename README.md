@@ -34,6 +34,8 @@ There are only 2 commands currently:
 
 *Note:If the program cannot search for the item from your query, try to make sure the first letter of the word is upper case(e.g. pickaxe -> Pickaxe)(planned to improve of course :P)
 
+3.exit -- stop the program
+
 No parameters needed, just directly type the word and press enter :D
 
 # TODO/Bug
