@@ -34,16 +34,18 @@ There are only 2 commands currently:
 
 *Note:If the program cannot search for the item from your query, try to make sure the first letter of the word is upper case(e.g. pickaxe -> Pickaxe)(planned to improve of course :P)
 
+3.exit -- stop the program
+
 No parameters needed, just directly type the word and press enter :D
 
 # TODO/Bug
 
-1.Missing "recipe created" prompt to show recipe successfully created
+1.Missing "recipe created" prompt to show recipe successfully created (Completed!)
 
 2.Program will crash if you attempt to craft an item without all its intermediate products's recipe present in the database
 (e.g. No minecraft stick recipe while trying to craft a minecraft pickaxe when stick is not in the ingredient chest)
 
-3.Database lookup with specified keyword from user in the crafting function cannot properly handle upper case or lower case difference
+3.Database lookup with specified keyword from user in the crafting function cannot properly handle upper case or lower case difference (Completed!)
 
 4.Precalculate the cost before actually crafting it?
 
