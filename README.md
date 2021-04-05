@@ -1,5 +1,5 @@
 # simpleAutocrafter
-A simple autocrafter program for OpenComputers
+A simple autocrafter program for OpenComputers, it can craft all intermediate products of the item if the recipe exist in its database
 
 # Installation
 Because it was intended for my personal use, i never added very user friendly interface and installation code, So to use the program in its current state:
@@ -8,7 +8,7 @@ Because it was intended for my personal use, i never added very user friendly in
 
 2.Run that program, it will download all the required library from my repo and some excess files too :P(A dedicated library installer will be made later)
 
-3.Use wget to download this program
+3.Use wget to download autoCrafting.lua
 
 # Resource Requirement/Setup
 
@@ -31,8 +31,6 @@ There are only 2 commands currently:
 2.craft --to craft an item stored in the database(instructions on what to do next will be displayed)
 
 *Important:Recipe for intermediate products need to be present in the database(use create command)
-
-*Note:If the program cannot search for the item from your query, try to make sure the first letter of the word is upper case(e.g. pickaxe -> Pickaxe)(planned to improve of course :P)
 
 3.exit -- stop the program
 
